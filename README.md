@@ -1,1 +1,1 @@
-# EnglishDictTeminalApp
+# English Dictionary Terminal Application
